@@ -17,7 +17,7 @@ import com.google.appinventor.components.runtime.EventDispatcher;
 
 @SimpleObject(external = true)
 //Libraries
-@UsesLibraries(libraries = "Spotify.aar, Spotify.jar")
+@UsesLibraries(libraries = "Spotify.jar")
 //Permissions
 @UsesPermissions(permissionNames = "")
 
